@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi\\CentralDeApostasApi.csproj": {}
+  },
+  "projects": {
+    "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj",
+        "projectName": "CentralDeApostasApi.ApplicationCore",
+        "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\paulo.magalhaes.n\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.magalhaes.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\CentralDeApostasApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\CentralDeApostasApi.Infrastructure.csproj",
+        "projectName": "CentralDeApostasApi.Infrastructure",
+        "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\CentralDeApostasApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\paulo.magalhaes.n\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.magalhaes.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj": {
+                "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi\\CentralDeApostasApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi\\CentralDeApostasApi.csproj",
+        "projectName": "CentralDeApostasApi",
+        "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi\\CentralDeApostasApi.csproj",
+        "packagesPath": "C:\\Users\\paulo.magalhaes.n\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.magalhaes.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj": {
+                "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.ApplicationCore\\CentralDeApostasApi.ApplicationCore.csproj"
+              },
+              "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\CentralDeApostasApi.Infrastructure.csproj": {
+                "projectPath": "C:\\workspace\\pessoal\\CentralDeApostas\\CentralDeApostasApi\\CentralDeApostasApi.Infrastructure\\CentralDeApostasApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

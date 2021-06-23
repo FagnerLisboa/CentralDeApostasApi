@@ -1,0 +1,12 @@
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\bin\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.deps.json
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\bin\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.dll
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\bin\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.pdb
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\bin\Debug\netcoreapp3.1\CentralDeApostasApi.ApplicationCore.dll
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\bin\Debug\netcoreapp3.1\CentralDeApostasApi.ApplicationCore.pdb
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.csproj.AssemblyReference.cache
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.AssemblyInfo.cs
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.csproj.CopyComplete
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.dll
+C:\workspace\pessoal\CentralDeApostas\CentralDeApostasApi\CentralDeApostasApi.Infrastructure\obj\Debug\netcoreapp3.1\CentralDeApostasApi.Infrastructure.pdb
